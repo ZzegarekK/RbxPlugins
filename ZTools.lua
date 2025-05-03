@@ -1,5 +1,5 @@
 local ZTools = {}
-ZTools.version = "v1.2"
+ZTools.version = "1.2"
 
 local chs = game:GetService("ChangeHistoryService")
 local sel = game:GetService("Selection")
